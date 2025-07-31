@@ -1,7 +1,3 @@
-# README.md
-
-# mirror_tc
-
 This project implements network traffic mirroring between interfaces using eBPF and the Linux `tc` (Traffic Control) utility.
 
 ## Files
